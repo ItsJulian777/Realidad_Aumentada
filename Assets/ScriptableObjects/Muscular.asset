@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872981902bf210a4ebe5d140799adae2, type: 3}
+  m_Name: Muscular
+  m_EditorClassIdentifier: 
+  ItemName: Muscular
+  ItemImage: {fileID: 21300000, guid: a122d03c7f181074f8b2b5e82e554acb, type: 3}
+  ItemDescription: Modelo Muscular
+  Item3DModel: {fileID: 4901468037838140714, guid: 5fd2fe4e476dabc448e50c8770ab6fdb, type: 3}
